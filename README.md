@@ -1,7 +1,12 @@
 # Melika
 Hi there 
 
-| skill |
+| skills |
 |-----:|
 |python |
-
+|Django |
+|rest freamwork |
+|restfulpy |
+|pytest |
+|rabbitmq |
+|celery |
