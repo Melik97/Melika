@@ -1,6 +1,6 @@
 # Melika
 Hi there ...
-| Rank | Languages |
+| skill | Languages |
 |-----:|-----------|
-|     1| python    |
+|python | *****    |
 
