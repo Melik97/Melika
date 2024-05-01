@@ -3,10 +3,10 @@ Hi there
 
 | skills |
 |-----:|
-|python |
-|Django |
-|rest freamwork |
-|restfulpy |
-|pytest |
-|rabbitmq |
-|celery |
+| python |
+| Django |
+| rest framework |
+| restfulpy |
+| pytest |
+| rabbitmq |
+| celery |
