@@ -2,6 +2,6 @@
 Hi there 
 
 | skill |
-|-----:|-----------|
-|python |     |
+|-----:|
+|python |
 
