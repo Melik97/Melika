@@ -1,4 +1,4 @@
-![Melik97's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Melik97&show_icons=true&theme=nautilus)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Melik97&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Melik97/github-widgetbox)
 
 <h1 align="center">Hi 👋, I'm Melika Akbarzadeh</h1>
 <h3 align="center">A passionate python lover</h3>
